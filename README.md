@@ -3,6 +3,7 @@
 Objetivo: Analizar el subsector: 'Biotechnology', para concluir a partir de KPIs cuál de ellas se ve con una mejor prospección a futuro para poder invertir.
 
 
+
 __Sector Healt Care__
 
 
@@ -20,7 +21,7 @@ Este sector comprende empresas ligadas tanto dos áreas principalmente: a equipo
 
 - Descubrimiento, desarrollo y producción continua sobre herramientas de análisis, instrumentación, consumibles, pruebas para los medicamentos y contraataciones de servicios de invetigación 
 
-Dentro de las acciones transaccionadas en un día, el sector de Health llegó a ser el segundo sector con mayor concentración peso dentro de la economía, precedido por Information Technology
+Dentro de las acciones transaccionadas en un día, el sector de Health llegó a ser el segundo sector con mayor concentración peso dentro de la economía, precedido por Information Technology en 2019.
 
 
 En las empresas enfocadas a desarrollar tecnologías utilizando sistemas biológicos y organismos vivos o sus derivados para la creación o modificación de productos o procesos para usos específicos ha tenido una evolución interesante en el mercado en los últimos años. 
@@ -33,7 +34,7 @@ En este trabajo, se tomaron en cuenta 3 KPIs:
 1) Tasa de cambio del 2000 a la fecha. 
 
 Fórmula: 
-valor_reciente-valor_antigüo * valor_reciente /1000000
+(valor_reciente-valor_antigüo) * valor_reciente /100
 
 2) UPA (Utilidad por Acción)
 
@@ -47,3 +48,10 @@ Volumen de acciones * Valor de acción al cierre
 
 
 Gracias a estas métricas se pudo observar que aunque se tenga una tasa de cambio más alta, no significa que tenga el mejor valor ante el mercado bursátil para tener la confianza suficiente para invertir en una u otra empresa.
+
+
+En cuanto a tasa de crecimiento se observó que la empresa Gildead Science (GILD), tiene el mayor valor, seguido de Regeneron Pharmaceuticals(REGN). Al mismo tiempo, si observamos la evolución de las acciones de GILD no se observa un cambio significativo como lo son otras empresas como Regeneron Pharmaceuticals.
+
+Al observar el Market Cap, va muy de la mano el de Gildean Science con Biogen (BIIB), aunque éste último tiene valores más áltos de UPA, rentabilidad y desempeño en el mercado, lo cual suma bastante ante la confianza de los inversionistas, seguido por REGN.
+
+Y si nos centramos en los valores de las empresas en estos últimos 3 años, se puede descartar como una opción viable a GILD, dado que ya no cuenta con la rentabilidad suficiente para competir con REGN y BIIB, que se han mantenido con cifras importantes en cuanto a sus UPA. 
