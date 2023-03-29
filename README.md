@@ -2,7 +2,7 @@
 
 Objetivo: Analizar el subsector: 'Biotechnology', para concluir a partir de KPIs cuál de ellas se ve con una mejor prospección a futuro para poder invertir.
 
-
+![imagen](imagenes/Health_Care.jpeg)
 
 __Sector Healt Care__
 
